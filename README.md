@@ -10,7 +10,7 @@ College can be a difficult experience for students to adapt to, and meaningful i
 
 ### Additional References
 
-[Domain Model] (https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
+[Domain Model](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
 
 ### Team Members
 
