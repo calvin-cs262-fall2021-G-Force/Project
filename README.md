@@ -10,7 +10,7 @@ College can be a difficult experience for students to adapt to, and meaningful i
 
 ### Additional References
 * [Domain Model](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
-* [UI Mockup](https://calvincollege-my.sharepoint.com/:f:/g/personal/as66_calvin_edu/Eu6lRlMzPlpPuMvcHR0KxvIBEqhx5eVLj0tDFF1Ha3iJZg?e=MEjb0h)
+* [UI Mockup](https://calvincollege-my.sharepoint.com/:i:/g/personal/as66_calvin_edu/EVk34P1jdzJDsLVq4Qn00DkBerSZV2ShRgkoqWNsr2dhhQ?e=M7BzR3)
 
 ### Team Members
 
