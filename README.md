@@ -8,8 +8,9 @@ The discounts are provided by Calvin University Student Senate. The Senate team 
 
 College can be a difficult experience for students to adapt to, and meaningful interactions can be more difficult to come by. It is our belief as the KnightBites team that meals can be an excellent way to fostering discussion and relationships between anyone. Additionally, due to the nature of meet up apps, it can engage people with the culture of Grand Rapids as they enjoy meals.</p>
 
-###
-* [Domain Model] (https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
+### Additional References
+* [Domain Model](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
+* [UI Mockup](https://calvincollege-my.sharepoint.com/:f:/g/personal/as66_calvin_edu/Eu6lRlMzPlpPuMvcHR0KxvIBEqhx5eVLj0tDFF1Ha3iJZg?e=MEjb0h)
 
 ### Team Members
 
