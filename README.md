@@ -10,6 +10,7 @@ The discounts are provided by Calvin University Student Senate. The Senate team 
 ### Additional References
 * [Domain Model](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
 * [UI Mockup](https://calvincollege-my.sharepoint.com/:i:/g/personal/as66_calvin_edu/EVk34P1jdzJDsLVq4Qn00DkBerSZV2ShRgkoqWNsr2dhhQ?e=M7BzR3)
+* [Presentation](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/presentation)
 
 ### Team Members
 
