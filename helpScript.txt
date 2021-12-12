@@ -4,7 +4,7 @@ To begin using our app, you need to set up an account.
 
 If you already have an account, skip this step,
 
-If not, use your calvin email and password for a new account.
+If not, use your Calvin email and password for a new account.
 
 
 ************************************************************************
@@ -24,15 +24,17 @@ Welcome to the Post Screen.
 
 Here you can view all the events that you could to attend.
 
-You can set-up your own events here as well,
+You can set up your own events here as well,
 
 using the red button at the bottom of the screen.
 
-You need to add the location and time for the event.
+Every event requires a date, time, and location.
 
 To find more details about an event, click on it.
 
-You can view the profie screen via the person icon at the bottom.
+You can view an events attendees and the profile of the person who posted the event.
+
+You can view the profie screen via the profile icon at the bottom.
 
 
 ************************************************************************
@@ -48,7 +50,7 @@ You can sign-up for an event using the sign-up button below.
 
 Welcome to your profile screen.
 
-Here you can see how ther students see you on the app.
+Here you can see how other students see you on the app.
 
 You can also see the list of restaurants and the discount card.
 
