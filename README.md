@@ -16,9 +16,11 @@ The discounts are provided by Calvin University Student Senate. The Senate team 
 * Design Models:
   * [Domain Model](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Domain%20Model.png)
   * [UI Mockup](https://calvincollege-my.sharepoint.com/:i:/g/personal/as66_calvin_edu/EVk34P1jdzJDsLVq4Qn00DkBerSZV2ShRgkoqWNsr2dhhQ?e=M7BzR3)
+  * [Deplyoment Diagram](https://github.com/calvin-cs262-fall2021-G-Force/Project/blob/main/images/Knight%20Bites%20Deployment%20Diagram.png)
   
 * Presentations
-  * [Midterm](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/presentation)
+  * [Midterm](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/presentation/Knight%20Bites%20Midterm%20Presentation.pptx)
+  * [Final](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/presentation/Knight%20Bites%20Final%20Presentation.pptx)
 
 
 ### Team Members
