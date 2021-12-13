@@ -23,8 +23,8 @@ The discounts are provided by Calvin University Student Senate. The Senate team 
   * [Final](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/presentation/Knight%20Bites%20Final%20Presentation.pptx)
 
 * Documents
-* [Test Script](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/KnightBitesTestScript.docx)
-* [Online Help](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/HelpScript.docx)
+  * [Test Script](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/KnightBitesTestScript.docx)
+  * [Online Help](https://github.com/calvin-cs262-fall2021-G-Force/Project/tree/main/HelpScript.docx)
 
 ### Team Members
 
