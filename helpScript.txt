@@ -1,0 +1,59 @@
+Hello and welcome to Knight Bites!
+
+To begin using our app, you need to set up an account.
+
+If you already have an account, skip this step,
+
+If not, use your Calvin email and password for a new account.
+
+
+************************************************************************
+
+
+Welcome to the Login Page.
+
+Use your Calvin email and already created password to login.
+
+If you don't have an account set up, go to the sign up page.
+
+
+************************************************************************
+
+
+Welcome to the Post Screen.
+
+Here you can view all the events that you could to attend.
+
+You can set up your own events here as well,
+
+using the red button at the bottom of the screen.
+
+Every event requires a date, time, and location.
+
+To find more details about an event, click on it.
+
+You can view an events attendees and the profile of the person who posted the event.
+
+You can view the profie screen via the profile icon at the bottom.
+
+
+************************************************************************
+
+
+Here you can see who posted the event and get more info. 
+
+You can sign-up for an event using the sign-up button below.
+
+
+************************************************************************
+
+
+Welcome to your profile screen.
+
+Here you can see how other students see you on the app.
+
+You can also see the list of restaurants and the discount card.
+
+The discount card is provided by Student Senate.
+
+You can return to the post screen via the home icon at the bottom.
